@@ -1,4 +1,4 @@
-# Running inception V3 with a pipenv setup
+# Retraining and running inception V3 with a pipenv setup
 
 I assembled .py files from various tutorials, and configured them so they can be simply run from a pipenv shell.
 
