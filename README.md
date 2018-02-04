@@ -1,6 +1,8 @@
 # Retraining and running inception V3 with a pipenv setup
 
 Assembled from various tutorials, and configured them so they can be simply run from a pipenv shell.
+For more info, see tensorflow website:
+ https://www.tensorflow.org/tutorials/image_retraining
 
 ## setup
 
