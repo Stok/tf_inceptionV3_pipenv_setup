@@ -4,7 +4,7 @@ Assembled from various tutorials, and configured them so they can be simply run 
 For more info, see tensorflow website:
  https://www.tensorflow.org/tutorials/image_retraining
 
-## setup
+## To set up
 
 - clone of this repo
 
